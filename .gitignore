@@ -1,5 +1,2 @@
-# Object file
-*.o
+print"(saif)"
 
-# Ada Library Information
-*.ali
